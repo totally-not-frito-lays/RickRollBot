@@ -15,3 +15,5 @@ Instagram Posting Bot | Inspired and adapted from [Real Python](https://realpyth
 WebCrawler Bot | Adapted from [GeeksforGeeks](https://www.geeksforgeeks.org/what-is-a-webcrawler-and-where-is-it-used/)
 Video Editing | Used Python Library [moviepy](https://github.com/Zulko/moviepy) from [github.com/Zulko](https://github.com/Zulko)
 
+Research:
+- [] Webcrawler library: Beautiful Soup?
