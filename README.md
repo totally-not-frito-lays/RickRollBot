@@ -16,4 +16,7 @@ WebCrawler Bot | Adapted from [GeeksforGeeks](https://www.geeksforgeeks.org/what
 Video Editing | Used Python Library [moviepy](https://github.com/Zulko/moviepy) from [github.com/Zulko](https://github.com/Zulko)
 
 Research:
-- [] Webcrawler library: Beautiful Soup?
+- [ ] Webcrawler [library](https://pypi.org/project/beautifulsoup4/): Beautiful Soup?
+- [ ] Selenium [Documentation](https://selenium-python.readthedocs.io/api.html) (they support multiple languages)
+- [ ] Link Facebook to Instagram [article](https://windowsreport.com/share-facebook-post-instagram/)
+
